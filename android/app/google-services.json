@@ -1,0 +1,198 @@
+{
+  "project_info": {
+    "project_number": "799012862718",
+    "project_id": "group-chat-d3408",
+    "storage_bucket": "group-chat-d3408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799012862718:android:3eb2555d3a2f77f81ac3af",
+        "android_client_info": {
+          "package_name": "com.example.cleancodeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799012862718-ascsif4kmu84aaljdnopj9vic3drpar5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_NIG5nHRU3HsF6r7D5kdk9jjWa39IKBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799012862718-ascsif4kmu84aaljdnopj9vic3drpar5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799012862718-133btq4ocbpkum331pca25t1nhrfcn71.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twitterclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799012862718:android:34a33ea51ce937d81ac3af",
+        "android_client_info": {
+          "package_name": "com.example.flutterchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799012862718-ascsif4kmu84aaljdnopj9vic3drpar5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_NIG5nHRU3HsF6r7D5kdk9jjWa39IKBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799012862718-ascsif4kmu84aaljdnopj9vic3drpar5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799012862718-133btq4ocbpkum331pca25t1nhrfcn71.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twitterclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799012862718:android:146d537787ad1f8d1ac3af",
+        "android_client_info": {
+          "package_name": "com.example.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799012862718-32f1feqm865h8oen9qblvabhca797h92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.groupchat",
+            "certificate_hash": "ce07869062a17ed4e2841bdc54af81a8eef3ec03"
+          }
+        },
+        {
+          "client_id": "799012862718-ascsif4kmu84aaljdnopj9vic3drpar5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_NIG5nHRU3HsF6r7D5kdk9jjWa39IKBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799012862718-ascsif4kmu84aaljdnopj9vic3drpar5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799012862718-133btq4ocbpkum331pca25t1nhrfcn71.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twitterclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799012862718:android:8a01cdedc94ea12c1ac3af",
+        "android_client_info": {
+          "package_name": "com.example.twitterclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799012862718-ascsif4kmu84aaljdnopj9vic3drpar5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_NIG5nHRU3HsF6r7D5kdk9jjWa39IKBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799012862718-ascsif4kmu84aaljdnopj9vic3drpar5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799012862718-133btq4ocbpkum331pca25t1nhrfcn71.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twitterclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799012862718:android:c7dfe65761f9f0151ac3af",
+        "android_client_info": {
+          "package_name": "com.example.videocallapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799012862718-ascsif4kmu84aaljdnopj9vic3drpar5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_NIG5nHRU3HsF6r7D5kdk9jjWa39IKBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799012862718-ascsif4kmu84aaljdnopj9vic3drpar5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799012862718-133btq4ocbpkum331pca25t1nhrfcn71.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twitterclone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

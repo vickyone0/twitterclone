@@ -44,8 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDyRZ9UD4wEoTRYj_LYIYq_bX5kU2RewBw',
-    appId: '1:799012862718:web:6f60eade34313a871ac3af',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '799012862718',
     projectId: 'group-chat-d3408',
     authDomain: 'group-chat-d3408.firebaseapp.com',
@@ -54,16 +54,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC_NIG5nHRU3HsF6r7D5kdk9jjWa39IKBw',
-    appId: '1:799012862718:android:8a01cdedc94ea12c1ac3af',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '799012862718',
     projectId: 'group-chat-d3408',
     storageBucket: 'group-chat-d3408.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDpLsE8Qg1GjGWu1QIriAl6EPX9FdhDD5E',
-    appId: '1:799012862718:ios:ed3b59a4f0b06e761ac3af',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '799012862718',
     projectId: 'group-chat-d3408',
     storageBucket: 'group-chat-d3408.appspot.com',
@@ -73,8 +73,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDpLsE8Qg1GjGWu1QIriAl6EPX9FdhDD5E',
-    appId: '1:799012862718:ios:a4d832e58a85a2c01ac3af',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '799012862718',
     projectId: 'group-chat-d3408',
     storageBucket: 'group-chat-d3408.appspot.com',
